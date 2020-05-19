@@ -32,3 +32,5 @@ build/
 
 logs/*
 *application.properties*
+.DS_Store
+Dockerfile

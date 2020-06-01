@@ -31,6 +31,5 @@ build/
 .vscode/
 
 logs/*
-*application.properties*
 .DS_Store
 Dockerfile
